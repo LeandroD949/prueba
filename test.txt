@@ -1,3 +1,5 @@
-primer archivo de texto
+primer archivo de texto.
 
-esta es una segunda prueba
+esta es una segunda prueba.
+
+esta es una tercera linea.
